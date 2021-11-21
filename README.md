@@ -2,7 +2,7 @@
 
 This repo is for Juyter Notes from Data Science bootcamp - codigofacilito 2021
 
-* Notes are aveilable in Notion and google colab *
+*Notes are aveilable in Notion and google colab*
 
 :white_check_mark:	:notebook: **Modulo 1 - Bases y Conceptos de la Ciencia de Datos**
 
