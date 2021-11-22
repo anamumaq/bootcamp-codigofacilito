@@ -20,7 +20,7 @@ This repo is for Juyter Notes from Data Science bootcamp - codigofacilito 2021
           
 :lock: :computer: **Modulo 3 - Análisis Exploratorio (EDA) y Visualización de Datos**
 
-  - :lock:	**Clase 1 de Análisis Exploratorio (EDA) y visualización de datos**
+  - :white_check_mark:	**Clase 1 de Análisis Exploratorio (EDA) y visualización de datos**
           
   - :lock:	**Clase 2 de Análisis Exploratorio (EDA) y visualización de datos**
           
