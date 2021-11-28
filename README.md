@@ -18,7 +18,7 @@ This repo is for Juyter Notes from Data Science bootcamp - codigofacilito 2021
   - :white_check_mark:	 **Clase práctica de Pandas**
           
           
-:lock: :computer: **Modulo 3 - Análisis Exploratorio (EDA) y Visualización de Datos**
+:white_check_mark: :computer: **Modulo 3 - Análisis Exploratorio (EDA) y Visualización de Datos**
 
   - :white_check_mark:	**Clase 1 de Análisis Exploratorio (EDA) y visualización de datos**
           
