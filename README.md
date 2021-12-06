@@ -25,9 +25,9 @@ This repo is for Juyter Notes from Data Science bootcamp - codigofacilito 2021
   - :white_check_mark:	**Clase 2 de Análisis Exploratorio (EDA) y visualización de datos**
           
           
-:lock: :computer: **Modulo 4 - Visualización efectiva de datos con Altair**
+:white_check_mark: :computer: **Modulo 4 - Visualización efectiva de datos con Altair**
 
-  - :lock: **Conceptos y fundamentos de visualización de datos**
+  - :white_check_mark: **Conceptos y fundamentos de visualización de datos**
           
   - :lock: **Gráficos básicos**
           
