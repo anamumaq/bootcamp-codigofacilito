@@ -29,7 +29,7 @@ This repo is for Juyter Notes from Data Science bootcamp - codigofacilito 2021
 
   - :white_check_mark: **Conceptos y fundamentos de visualización de datos**
           
-  - :lock: **Gráficos básicos**
+  - :white_check_mark: **Gráficos básicos**
           
   - :lock: **Gráficos avanzados**
           
