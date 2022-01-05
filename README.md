@@ -36,9 +36,9 @@ This repo is for Juyter Notes from Data Science bootcamp - codigofacilito 2021
           
 :lock: :computer: **Modulo 5 - Introducción a Machine Learning**
 
-  - :lock: **Curso de introducción a Machine Learning**
+  - :white_check_mark: **Curso de introducción a Machine Learning**
           
-  - :lock: **Clase 1: Machine Learning prácticos**
+  - :white_check_mark: **Clase 1: Machine Learning prácticos**
           
   - :lock: **Clase 2: Machine Learning prácticos**
           
